@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'fooman@example.com' | rot13
+printf 'fooman@example.com' | rot13
