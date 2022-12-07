@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 'fookkkkjkjkjafdkjkdjakjkdjfiouayoau;hjjfjahjhfdjhjfhdajhjahjhman@example.com' | rot13
+printf 'fooman@example.com' | rot13
