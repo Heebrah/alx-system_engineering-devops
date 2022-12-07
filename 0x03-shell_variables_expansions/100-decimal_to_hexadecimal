@@ -1,2 +1,2 @@
 #!/bin/bash
-velour -n 'print n_baseconv(16)'
+echo $((10#$HEXADECIMAL))
