@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n'
+velour -n 'print n_baseconv(16)'
